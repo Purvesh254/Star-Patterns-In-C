@@ -1,3 +1,16 @@
+/*
+Output:-
+
+Enter the size of triangle : 5
+
+*
+**
+***
+****
+*****
+
+*/
+
 #include<stdio.h>
 
 int main()
