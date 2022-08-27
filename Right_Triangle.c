@@ -4,10 +4,10 @@ Output:-
 Enter the size of triangle : 5
 
 *
-**
-***
-****
-*****
+* *
+* * *
+* * * *
+* * * * *
 
 */
 
@@ -24,7 +24,7 @@ int main()
   {
     for(j=1;j<=i;j++)
     {
-      printf("*");
+      printf("* ");
     }
       printf("\n");
   }
